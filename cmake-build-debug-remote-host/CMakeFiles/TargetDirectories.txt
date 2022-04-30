@@ -1,3 +1,0 @@
-/home/pi/Code/OpenVINO_Cpp/cmake-build-debug-remote-host/CMakeFiles/rebuild_cache.dir
-/home/pi/Code/OpenVINO_Cpp/cmake-build-debug-remote-host/CMakeFiles/test.dir
-/home/pi/Code/OpenVINO_Cpp/cmake-build-debug-remote-host/CMakeFiles/edit_cache.dir
